@@ -15,7 +15,7 @@ usable on their own as well:
   program, extracting and running the appropriate executable for the
   processor architecture and operating system that is detected.
 
-* [beat-carabiner][https://github.com/Deep-Symmetry/beat-carabiner] is
+* [beat-carabiner](https://github.com/Deep-Symmetry/beat-carabiner) is
   a Clojure library that beat-link-trigger uses to synchronize the Pro
   DJ Link player timeline (managed by beat-link) with other
   instruments and software using Ableton Link (managed by
@@ -80,7 +80,7 @@ libraries but which you might find useful.
   limited API. without the requirement of a GUI environment. It can be
   handy if you are already working in an environment (like
   [PureData](https://puredata.info),
-  [Max](https://cycling74.com/products/max/)), or
+  [Max](https://cycling74.com/products/max/), or
   [TouchDesigner](https://derivative.ca)). But there are better
   approaches than OSC if you are not using such an environment, like:
 
