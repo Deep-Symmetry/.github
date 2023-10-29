@@ -26,16 +26,23 @@ a few distinct categories:
   led someone to ask us to create:
 
 * [beat-link-trigger](https://github.com/Deep-Symmetry/beat-link-trigger),
-  an integration environment for shows using beat-link, initially a
-  demonstration of how one could send MIDI events in response to DJ
-  actions and in sync with beats, it has grown into far more, and is
-  our primary focus today, providing an on-ramp to performing
-  musicians and their tech crews, who are not primarily software
-  developers, to explore what is possible.
+  a Clojure integration environment for shows using beat-link.
+  Initially a demonstration of how one could send MIDI events in
+  response to DJ actions and in sync with beats, it has grown into far
+  more, and is our primary focus today, providing an on-ramp to
+  performing musicians and their tech crews, who are not primarily
+  software developers, to explore what is possible. Using Clojure
+  means users can extend the program using the full power of the
+  language that was used to create it, without having to fork the
+  project or learn how to use a development environment. Code entered
+  using the GUI is compiled and loaded with the same power and
+  privileges as any other code in the project, and new dependencies
+  can be downloaded and activated at runtime.
 
 Over time these main projects spawned sub-projects, split out so that
 people who only needed parts of the functionality could use them
-separately. See [below](#component-projects) for descriptions of them.
+separately. See [this page](profile/subprojects.md#component-projects)
+for descriptions of them.
 
 ## Star History
 
@@ -58,16 +65,6 @@ with DJ performances.
 
 ## Component Projects
 
-As described above, here are other projects which feed into the
-primary ones mentioned above, but are designed to be usable on their
-own as well:
-
-* [carabiner](https://github.com/Deep-Symmetry/carabiner) is a small
-  C++ program that can be used as a loose bridge to [Ableton
-  Link](https://www.ableton.com/en/link/) for people who want to be
-  able to synchronize with performances over that protocol.
-
-* [lib-carabiner](https://github.com/Deep-Symmetry/lib-carabiner) is a
-  Java library which allows Carabiner to be embedded in a Java
-  program, extracting and running the appropriate executable for the
-  processor architecture and operating system that is detected.
+As mentioned above, you can learn about the pieces that make up these
+main projects and which you might find useful on their own
+[here](profile/subprojects.md#component-projects).
