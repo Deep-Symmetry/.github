@@ -41,7 +41,7 @@ a few distinct categories:
 
 Over time these main projects spawned sub-projects, split out so that
 people who only needed parts of the functionality could use them
-separately. See [this page](profile/subprojects.md#component-projects)
+separately. See [this page](profile/subprojects.md)
 for descriptions of them.
 
 ## Star History
@@ -67,4 +67,4 @@ with DJ performances.
 
 As mentioned above, you can learn about the pieces that make up these
 main projects and which you might find useful on their own
-[here](profile/subprojects.md#component-projects).
+[here](profile/subprojects.md).
