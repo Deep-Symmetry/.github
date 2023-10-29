@@ -1,2 +1,2 @@
 # .github
-Repository for default community health files
+Repository for default community health files and public profile.
