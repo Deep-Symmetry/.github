@@ -52,7 +52,7 @@ static image, but if you click on it you can see an up-to-date version
 (you may need to supply your own GitHub API token if you do it
 frequently):
 
-[![Star History Chart](profile/images/star-history.png)](https://star-history.com/#Deep-Symmetry/afterglow&Deep-Symmetry/beat-link-trigger&Deep-Symmetry/dysentery&Deep-Symmetry/beat-link&Deep-Symmetry/carabiner&Deep-Symmetry/crate-digger&Date)
+[![Star History Chart](images/star-history.png)](https://star-history.com/#Deep-Symmetry/afterglow&Deep-Symmetry/beat-link-trigger&Deep-Symmetry/dysentery&Deep-Symmetry/beat-link&Deep-Symmetry/carabiner&Deep-Symmetry/crate-digger&Date)
 
 We have not had time to perform shows since 2016, so we aren't using
 afterglow any longer, but it is still the repository people are most
