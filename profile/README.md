@@ -55,11 +55,14 @@ frequently):
 [![Star History Chart](images/star-history.png)](https://star-history.com/#Deep-Symmetry/afterglow&Deep-Symmetry/beat-link-trigger&Deep-Symmetry/dysentery&Deep-Symmetry/beat-link&Deep-Symmetry/carabiner&Deep-Symmetry/crate-digger&Date)
 
 We have not had time to perform shows since 2016, so we aren't using
-afterglow any longer, but it is still the repository people are most
-excited about.
+afterglow any longer, but it was for a long time the repository people
+are most excited about. Far more people use Beat Link Trigger, so it
+is surprising it took so long to catch up, but as noted above, few of
+those users are developers, so they tend not to have GitHub accounts
+or know about stars.
 
-Most of the time we used to spend performing has been devoted to
-beat-link-trigger and the related repositories that underpin it, which
+Most of the time we previously spent performing has been devoted to
+Beat Link Trigger and the related repositories that underpin it, which
 many interesting artists are using to synchronize visuals and lighting
 with DJ performances.
 
@@ -67,4 +70,4 @@ with DJ performances.
 
 As mentioned above, you can learn about the pieces that make up these
 main projects and which you might find useful on their own
-[here](profile/subprojects.md).
+[here](subprojects.md).
