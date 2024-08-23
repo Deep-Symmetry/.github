@@ -41,7 +41,7 @@ a few distinct categories:
 
 Over time these main projects spawned sub-projects, split out so that
 people who only needed parts of the functionality could use them
-separately. See [this page](profile/subprojects.md)
+separately. See [this page](subprojects.md)
 for descriptions of them.
 
 ## Star History
